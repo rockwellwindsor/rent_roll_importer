@@ -10,7 +10,13 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.2].define(version: 2025_03_05_175200) do
+ActiveRecord::Schema[7.2].define(version: 2025_03_05_190858) do
+  create_table "tenants", force: :cascade do |t|
+    t.string "name"
+    t.datetime "created_at", null: false
+    t.datetime "updated_at", null: false
+  end
+
   create_table "units", force: :cascade do |t|
     t.string "unit_number"
     t.integer "floor_plan"
