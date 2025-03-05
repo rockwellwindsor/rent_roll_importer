@@ -1,7 +1,7 @@
 # Summary
-	* As a user you can upload a CSV file
-		* This data will be saved in the DB
-	* You can return a report of currently Unit information, occupied and vacant Units
+* As a user you can upload a CSV file
+	* This data will be saved in the DB
+* You can return a report of currently Unit information, occupied and vacant Units
 
 # Assumptions Made
 * I based my rent roll on the supplied example (here)[https://github.com/WelcomeHome-Software/developer-interview/blob/main/assets/units-and-residents.csv]
@@ -22,3 +22,4 @@
 		* One tenants move in date is not before the previous tenants move out date, etc.
 	* Parsing the uploaded CSV file could be much more robust as well.  It would certianly need some error handling and reporting
 * I assume more agile reporting would also be a part of this kind of development.
+
