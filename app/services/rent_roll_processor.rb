@@ -1,3 +1,5 @@
+require 'csv'
+
 class RentRollProcessor
   def self.process(file_path)
     parsed_data = CSV.read(file_path, headers: true)
