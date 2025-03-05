@@ -16,7 +16,7 @@
 	* `rails runner "LeaseScanner.generate_report('2024-08-15')"`
 
 # Next Steps
-* There are a huge amount of validations that could make this more robust obviously. a few that come to mind:
+* There are a huge amount of validations that could make this more robust obviously. A few that come to mind:
 	* Make sure `move_in` and `move_out` dates are valid dates and do not overlap.
 		* also make sure the move out date is not before the move in date
 		* One tenants move in date is not before the previous tenants move out date, etc.
