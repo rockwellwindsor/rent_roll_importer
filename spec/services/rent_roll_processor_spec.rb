@@ -50,7 +50,7 @@ RSpec.describe RentRollProcessor, type: :service do
 
       expect {
         RentRollProcessor.process(empty_file_path)
-      }.to change { Unit.count }.by(0).and change { Tenent.count }.by(0).and change { Lease.count }.by(0)
+      }.to change { Unit.count }.by(0).and change { Tenant.count }.by(0).and change { Lease.count }.by(0)
     end
   end
 end
