@@ -1,0 +1,96 @@
+Unit,Floor Plan,Resident,Move in,Move out
+1,three_bedroom,Rev. Jeffery Smith,2024-08-20,2025-08-20
+1,three_bedroom,Leonia Dietrich,2023-08-19,2024-08-19
+2,suite,Elmer Glover,2025-01-01,""
+2,suite,Edmond Haag,2023-12-31,2024-12-31
+3,suite,Shira Kling,2025-02-23,""
+3,suite,Rep. Magaly Schmeler,2024-02-22,2025-02-22
+4,two_bedroom,Zachary Leuschke,2024-10-23,2025-10-23
+4,two_bedroom,Rep. Ian Schultz,2023-10-22,2024-10-22
+5,studio,Lajuana Gorczany,2025-02-12,""
+5,studio,Santo Witting,2024-02-11,2025-02-11
+6,two_bedroom,Anderson Morar,2024-04-22,""
+7,three_bedroom,Rep. Vernetta Funk,2024-11-10,""
+7,three_bedroom,Clifford Satterfield,2023-11-09,2024-11-09
+8,two_bedroom,Luis Watsica,2025-01-09,2026-01-09
+8,two_bedroom,Precious Schamberger,2024-01-08,2025-01-08
+9,studio,Damon Pagac,2024-08-23,""
+10,two_bedroom,The Hon. Juliana Donnelly,2024-04-08,""
+10,two_bedroom,Mr. Vashti White,2023-04-07,2024-04-07
+11,three_bedroom,Dominic Reinger,2024-03-26,2025-03-26
+11,three_bedroom,Broderick Zboncak VM,2023-03-25,2024-03-25
+12,two_bedroom,Sherly Prosacco,2024-09-22,2025-09-22
+12,two_bedroom,Donn Buckridge,2023-09-21,2024-09-21
+13,suite,Hiram Daugherty,2024-10-03,2025-10-03
+13,suite,Mr. Bradly Morar,2023-10-02,2024-10-02
+14,three_bedroom,Stewart Baumbach,2025-01-03,""
+14,three_bedroom,Pres. Marcos Fay,2024-01-02,2025-01-02
+15,three_bedroom,Clara Bayer,2024-03-13,2025-03-13
+15,three_bedroom,Weldon Hammes,2023-03-12,2024-03-12
+16,two_bedroom,Sol Hickle,2024-03-14,2025-03-14
+16,two_bedroom,Evan Hoeger,2023-03-13,2024-03-13
+17,studio,Rolanda Quitzon,2024-12-03,""
+17,studio,Jeremy Grant III,2023-12-02,2024-12-02
+18,studio,Odell Crist,2024-10-02,2025-10-02
+18,studio,Sung Nolan,2023-10-01,2024-10-01
+19,suite,Mac Leffler,2024-10-29,""
+19,suite,Grover Wilderman,2023-10-28,2024-10-28
+20,suite,Ruben Gleason DVM,2024-03-26,""
+20,suite,Laquanda Mayer,2023-03-25,2024-03-25
+21,three_bedroom,Merrill Jaskolski,2024-10-19,2025-10-19
+21,three_bedroom,Titus Schultz,2023-10-18,2024-10-18
+22,studio,Rudolf Jaskolski,2024-10-27,""
+22,studio,Amb. Karen Feest,2023-10-26,2024-10-26
+23,two_bedroom,Quinton Crist,2025-01-25,2026-01-25
+23,two_bedroom,Derick Gislason DVM,2024-01-24,2025-01-24
+24,two_bedroom,Rosio Runolfsdottir I,2024-08-16,2025-08-16
+24,two_bedroom,Franklin Gibson I,2023-08-15,2024-08-15
+25,suite,Kay Braun,2025-01-26,2026-01-26
+25,suite,Rev. Louis Miller,2024-01-25,2025-01-25
+26,three_bedroom,Berry Bernhard,2024-10-26,""
+26,three_bedroom,Tamala Crist,2023-10-25,2024-10-25
+27,three_bedroom,Ivan Boehm,2025-01-16,""
+27,three_bedroom,Tiera Windler DVM,2024-01-15,2025-01-15
+28,suite,Vasiliki Herzog DDS,2024-06-25,""
+28,suite,Prof. Randy Grant,2023-06-24,2024-06-24
+29,three_bedroom,Casey Schuster,2025-02-10,""
+29,three_bedroom,Arnulfo Turcotte,2024-02-09,2025-02-09
+30,three_bedroom,Marylin Bednar,2024-04-08,2025-04-08
+30,three_bedroom,Myles Mayer,2023-04-07,2024-04-07
+31,suite,Ngan Doyle,2024-08-22,2025-08-22
+31,suite,Byron Heller,2023-08-21,2024-08-21
+32,suite,Melda Johnson,2024-11-16,""
+32,suite,Deon Quitzon,2023-11-15,2024-11-15
+33,studio,Milan Sipes V,2025-02-21,""
+33,studio,Shannon Klein,2024-02-20,2025-02-20
+34,three_bedroom,Christie Wehner CPA,2024-09-20,2025-09-20
+34,three_bedroom,Ling DuBuque,2023-09-19,2024-09-19
+35,suite,Miss Francis Schmitt,2024-11-15,2025-11-15
+35,suite,Ms. Herma Beier,2023-11-14,2024-11-14
+36,studio,Graham Greenfelder,2024-11-04,""
+36,studio,Pilar Cartwright,2023-11-03,2024-11-03
+37,suite,Gregorio Hintz,2024-12-25,""
+38,two_bedroom,Donald McDermott,2024-09-03,""
+38,two_bedroom,Tommy Kuphal,2023-09-02,2024-09-02
+39,three_bedroom,Irving Feeney,2024-04-09,2025-04-09
+40,suite,Sylvia Streich,2024-08-13,""
+40,suite,Buford Beahan LLD,2023-08-12,2024-08-12
+41,three_bedroom,Courtney Batz,2024-03-26,""
+41,three_bedroom,Bert Ankunding,2023-03-25,2024-03-25
+42,two_bedroom,Marty Powlowski,2024-08-08,""
+42,two_bedroom,Fred Cronin I,2023-08-07,2024-08-07
+43,three_bedroom,Salvador Roberts,2024-08-13,2025-08-13
+43,three_bedroom,Mira Monahan,2023-08-12,2024-08-12
+44,suite,Deetta Hickle,2025-02-26,2026-02-26
+44,suite,Yoko Zemlak V,2024-02-25,2025-02-25
+45,two_bedroom,Christy Ankunding,2024-03-22,2025-03-22
+45,two_bedroom,Raisa Lakin,2023-03-21,2024-03-21
+46,studio,Mickey Roob Jr.,2024-07-16,""
+46,studio,Ozzie Bernhard,2023-07-15,2024-07-15
+47,suite,Edgar Schumm,2024-12-26,""
+48,three_bedroom,Lezlie Aufderhar,2024-06-09,2025-06-09
+48,three_bedroom,Rev. Evelynn Ondricka,2023-06-08,2024-06-08
+49,two_bedroom,Kristi Konopelski,2024-05-22,2025-05-22
+49,two_bedroom,Gerda Bechtelar,2023-05-21,2024-05-21
+50,suite,Ms. Chang Blanda,2024-12-02,2025-12-02
+50,suite,Dean Smith,2023-12-01,2024-12-01
