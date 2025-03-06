@@ -2,6 +2,7 @@
 * As a user you can upload a CSV file
 	* This data will be saved in the DB
 * You can return a report of currently Unit information, occupied and vacant Units
+* _All in all this took about 2.5 - 3 hours spread out over the day yesterday (the commit times make it look like much more but I did a little in the morning, some over lunch and then finished up after work)_
 
 # Assumptions Made
 * I based my rent roll on the supplied example (here)[https://github.com/WelcomeHome-Software/developer-interview/blob/main/assets/units-and-residents.csv]
